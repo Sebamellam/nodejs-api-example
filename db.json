@@ -1,0 +1,22 @@
+{
+    "dishes": [
+        {
+            "id": 1,
+            "name": "Empanadas",
+            "origen": "Chile"
+        },
+        {
+            "id": 2,
+            "name": "Ceviche",
+            "origen": "Perú"
+        }
+    ],
+    "books": [
+        {
+            "id": 2,
+            "name": "Harry potter y la piedra filosofal",
+            "author": "Jk rowling",
+            "year": "2000"
+        }
+    ]
+}
